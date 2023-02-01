@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=1245&height=200&section=header&text=&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=1247&height=200&section=header&text=&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HangHang13&show_icons=true&theme=radical)'
 
@@ -18,4 +18,4 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=1247&height=200&section=footer)
