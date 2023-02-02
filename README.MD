@@ -2,19 +2,21 @@
 
 
 
-## Education
+# :sunny:Education:sunny:
 
 <img src="https://img.shields.io/badge/ssafy-3178C6?style=flat&logo=Samsung&logoColor=white"/><a>
 
 
 
-## Language
+# :wrench:Tech Skill :wrench:
+
+## :jack_o_lantern: Language
 
 <img src="https://img.shields.io/badge/Java-red?style=flat&&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
 
 
-## FrameWork
+## :gun:FrameWork
 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&&logoColor=white"/>
 
@@ -22,7 +24,7 @@
 
 
 
-## Infra
+## :factory:Infra
 
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/>&nbsp;
 
@@ -30,7 +32,7 @@
 
 
 
-## DB
+## :floppy_disk:DB
 
 ### 1.**RDBMS**
 
@@ -46,13 +48,13 @@
 
 
 
-## Repository
+## :orange_book:Repository
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanghang13)](https://github.com/hanghang13/github-readme-stats)
 
 
 
-## Blog
+## :clipboard:Blog
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dhkdwlsgod)](https://velog.io/@dhkdwlsgod)
 
