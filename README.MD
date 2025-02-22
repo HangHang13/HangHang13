@@ -40,11 +40,6 @@
 
 
 
-### 2.NoSQL
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/><a>
-
-
 
 
 
